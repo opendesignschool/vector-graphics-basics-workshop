@@ -22,4 +22,4 @@ Reference Materials
 * [Shape type](http://shape.method.ac/) - greate game to get a hang of bezier curves
 * [The Adobe Illustrator Story](https://vimeo.com/95415863) - documentary about creation of Adobe Illustrator (first graphic editor)
 * [Inkscape tutorials](https://inkscape.org/en/learn/tutorials/) - set of official and community tutorials
-* 
+* [Pen Game tool](https://helpx.adobe.com/illustrator/how-to/pen-tool-game.html) browser based game to learn pen tool
