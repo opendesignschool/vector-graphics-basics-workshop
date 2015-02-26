@@ -17,7 +17,7 @@ Getting started with Inkscape and Vector Graphics
 * Design applied to machines
 
 
-Reference Materials
+## Reference Materials
 
 * [Shape type](http://shape.method.ac/) - greate game to get a hang of bezier curves
 * [The Adobe Illustrator Story](https://vimeo.com/95415863) - documentary about creation of Adobe Illustrator (first graphic editor)
