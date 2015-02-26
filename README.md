@@ -8,12 +8,6 @@ Getting started with Inkscape and Vector Graphics
 * Your own laptop to use during the lesson (Windows, Mac, Linux)
 * Be able to competently use a computer
 
-Cost: TBC
-
-Size: Groups of up to 10 people
-
-Time: 3-4 Hours
-
 ## Lesson Includes
 * Vector Graphics explained
 * Interface
